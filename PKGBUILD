@@ -3,7 +3,7 @@ pkgver=25
 pkgrel=1
 pkgdesc="Tools for creating Astian live and install iso images"
 arch=('any')
-url="https://bitbucket.org/astianos/astiankiso"
+url="https://github.com/OSAstian/astiankiso"
 license=('GPL')
 depends=('archiso')
 
